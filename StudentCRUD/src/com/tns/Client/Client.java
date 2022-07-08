@@ -32,16 +32,16 @@ public class Client
 		
 		
 	// Retrieve Operation
-	//	service.findStudentById(104);
-		//System.out.println("ID is: "+student.getStudentid());
-		//System.out.println("Name is: "+student.getName());
-		
+//		service.findStudentById(104);
+//		System.out.println("ID is: "+student.getStudentId());
+//		System.out.println("Name is: "+student.getName());
+//		
 		
 		
 		//Update Operation
-	  // student  =service.findStudentById(1);
-		 // student.setName("Avantika ");
-		//service.updateStudent(student);
+//	   student  =service.findStudentById(1);
+//		  student.setName("Ajay1 ");
+//		service.updateStudent(student);
 		
 		
 	/*	service.findStudentById(101);
