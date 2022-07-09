@@ -1,6 +1,6 @@
 package com.ajy.extc;
 
-public class Multi_Thread {
+public class MultiThread {
 	public static void main(String[] args) {
 		MyThread t=new MyThread();
 		Thread obj=new Thread(t);

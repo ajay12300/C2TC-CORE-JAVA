@@ -1,6 +1,6 @@
 package com.ajy.extc;
 
-public class Method_Overloading {
+public class MethodOverloading {
 	
 	public void m(Object o)
 	{
@@ -17,7 +17,7 @@ public class Method_Overloading {
 	}
 public static void main(String[] args) {
 		
-		Method_Overloading obj=new Method_Overloading();
+		MethodOverloading obj=new MethodOverloading();
 		obj.m(new Object());
 		
 		obj.m("Ajay");
