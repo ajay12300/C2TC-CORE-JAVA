@@ -1,4 +1,4 @@
-package MyPack;
+package mypack;
 
 public class NoOne {
 	
